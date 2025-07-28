@@ -47,7 +47,7 @@
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/TuShArBhArDwA/HireMe.git
+   git clone https://github.com/PREM-cpu-cloud/HireMe.git
    cd HireMe
 2. **Install dependencies**
    ```sh
